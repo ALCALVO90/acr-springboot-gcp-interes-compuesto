@@ -16,8 +16,8 @@ import com.example.appengine.springboot.models.InteresCompuestoResultadoModel;
 //http://localhost:8080/servicios/calculointerescompuesto?saldoInicial=5000&tasaDeInteres=21&tiempo=5
 
 //GCP
-//https://acr-interes-compuesto.uc.r.appspot.com/calculomontofinal?saldoInicial=5000&tasaDeInteres=21&tiempo=5
-//https://acr-interes-compuesto.uc.r.appspot.com/calculointerescompuesto?saldoInicial=5000&tasaDeInteres=21&tiempo=5
+//https://acr-interes-compuesto.uc.r.appspot.com/servicios/calculomontofinal?saldoInicial=5000&tasaDeInteres=21&tiempo=5
+//https://acr-interes-compuesto.uc.r.appspot.com/servicios/calculointerescompuesto?saldoInicial=5000&tasaDeInteres=21&tiempo=5
 
 
 @RestController
